@@ -9,7 +9,7 @@ This repository contains:
 - Clean tabular and structured data exports
 - Utilities for filtering and comparing models based on:
   - Unit price
-  - Use case (e.g., Text-to-Speech, Image-to-Video)
+  - Use case (e.g., text-to-speech, image-to-video)
   - Commercial-use allowance
 
 ## 🗂 Sample Fields
@@ -48,9 +48,10 @@ This repository contains:
 
 ## 📦 Files
 
-- `fal_models.csv` – Clean tabular data for easy import
-- `fal_models.json` – Full data dump in JSON format
-- `fal_models.md` – Human-readable Markdown version of the model pricing table
+- [fal_ai_models.csv](fal_ai_models.csv) – Clean tabular data for easy import
+- [fal_ai_models.json](fal_ai_models.json) – Full data dump in JSON format
+- [fal_ai_models.md](fal_ai_models.md) – Human-readable Markdown version of the model pricing table
+- [fal_ai_models.html](fal_ai_models.html) – HTML version of the model pricing table
 
 ## 🧑‍💻 Contributing
 
