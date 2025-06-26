@@ -1,6 +1,6 @@
-# 🧠 fal.ai Model Pricing Table
+# 🧠 fal AI Model Pricing Table
 
-A public, community-maintained table of pricing data for models available on [fal.ai](https://fal.ai). Useful for developers, researchers, and AI builders who want to compare and calculate costs before using a model.
+A public, community-maintained table of pricing data for models available on [fal AI](https://fal.ai). Useful for developers, researchers, and AI builders who want to compare and calculate costs before using a model.
 
 ## 📊 What’s Inside
 
