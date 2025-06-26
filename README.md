@@ -48,7 +48,6 @@ This repository contains:
 
 ## 📦 Files
 
-- `schema.sql` – PostgreSQL schema definition
 - `fal_models.csv` – Clean tabular data for easy import
 - `fal_models.json` – Full data dump in JSON format
 - `fal_models.md` – Human-readable Markdown version of the model pricing table
